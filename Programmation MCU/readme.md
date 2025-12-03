@@ -1,4 +1,4 @@
-# Programmation du PIC18F14K50 – Exercices en C
+# Programmation des microcontrôleurs PIC de Microchip
 
 Ce dépôt regroupe des exemples de programmes en **langage C pour le microcontrôleur PIC18F14K50**, réalisés à partir des tutoriels du site **CircuitBread**.
 
