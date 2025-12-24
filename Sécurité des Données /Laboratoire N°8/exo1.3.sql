@@ -1,0 +1,3 @@
+BACKUP DATABASE Manip2
+TO DISK = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup\exo_manip_8.bak'
+WITH INIT, COMPRESSION, STATS = 10;
