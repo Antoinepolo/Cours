@@ -1,0 +1,1 @@
+ALTER SERVER ROLE [LoginManager] ADD MEMBER [PC-Antoine\UsrLocal];

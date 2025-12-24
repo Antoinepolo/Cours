@@ -1,0 +1,4 @@
+CREATE LOGIN [UsrSQL]
+WITH PASSWORD = 'tigrou007',
+     DEFAULT_DATABASE = [Cafe],
+     CHECK_POLICY = ON;

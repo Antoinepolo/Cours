@@ -1,0 +1,1 @@
+ALTER SERVER ROLE [CreatorManager] ADD MEMBER [UsrSQL];

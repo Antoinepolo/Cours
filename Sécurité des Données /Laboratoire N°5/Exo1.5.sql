@@ -1,0 +1,1 @@
+ALTER SERVER ROLE [bulkadmin] ADD MEMBER [UsrSQL];

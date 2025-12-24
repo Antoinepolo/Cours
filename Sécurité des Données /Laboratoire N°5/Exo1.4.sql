@@ -1,0 +1,1 @@
+ALTER SERVER ROLE [setupadmin] ADD MEMBER [PC-Antoine\UsrLocal];

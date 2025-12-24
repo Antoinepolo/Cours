@@ -1,0 +1,9 @@
+GO
+USE Cafe;
+GO
+
+GRANT CREATE TABLE TO [TableAdmin];
+GO
+
+GRANT CREATE SCHEMA TO [TableAdmin];
+GO

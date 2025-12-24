@@ -1,0 +1,2 @@
+CREATE LOGIN KimPossible
+WITH PASSWORD = 'tigrou007!';
