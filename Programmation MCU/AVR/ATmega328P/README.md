@@ -1,6 +1,6 @@
 # AVR Programming
 
-Dépôt dédié au développement sur microcontrôleurs AVR (familles ATtiny et ATmega). Ce projet regroupe des implémentations de drivers bas niveau (Bare Metal) et des exemples d'application.
+Dépôt dédié au développement sur microcontrôleurs AVR (ATmega328P). Ce projet regroupe des implémentations de drivers bas niveau (Bare Metal) et des exemples d'application.
 
 # Ressources
 
