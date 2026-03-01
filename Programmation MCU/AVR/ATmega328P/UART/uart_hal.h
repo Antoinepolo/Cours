@@ -1,0 +1,27 @@
+/*
+ * File:   uart_hal.h
+ * Author: Antoine
+ *
+ * Created on February 27, 2026, 9:04 PM
+ */
+
+#ifndef UART_HAL_H_
+#define UART_HAL_H_
+
+#define F_CPU 16000000
+
+#include <stdint.h>
+#include <avr/io.h>
+#include <util/delay.h>
+#include <avr/interrupt.h>
+
+#define RX_BUFFER_SIZE 128
+
+void uart_init(uint32_t baud, uint8_t high_speed);
+void uart_send_byte(uint8_t c);
+void uart_send_array(uint8_t *c, uint16_t len);
+void uart_send_string(uint8_t *c);
+uint16_t uart_read_count(void);
+uint8_t uart_read(void);
+
+#endif /* UART_HAL_H_ */
